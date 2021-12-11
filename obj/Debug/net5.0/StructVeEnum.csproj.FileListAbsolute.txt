@@ -1,0 +1,16 @@
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\bin\Debug\net5.0\StructVeEnum.exe
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\bin\Debug\net5.0\StructVeEnum.deps.json
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\bin\Debug\net5.0\StructVeEnum.runtimeconfig.json
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\bin\Debug\net5.0\StructVeEnum.runtimeconfig.dev.json
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\bin\Debug\net5.0\StructVeEnum.dll
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\bin\Debug\net5.0\ref\StructVeEnum.dll
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\bin\Debug\net5.0\StructVeEnum.pdb
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\StructVeEnum.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\StructVeEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\StructVeEnum.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\StructVeEnum.AssemblyInfo.cs
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\StructVeEnum.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\StructVeEnum.dll
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\ref\StructVeEnum.dll
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\StructVeEnum.pdb
+C:\Users\merve\Desktop\DOTNETCORE\StructVeEnum\obj\Debug\net5.0\StructVeEnum.genruntimeconfig.cache
