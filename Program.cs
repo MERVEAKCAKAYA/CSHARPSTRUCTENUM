@@ -1,4 +1,3 @@
-/* STRUCT YAPISI ILE CLASS YAPISININ KARSILASTIRILMASI
 using System;
 
 namespace StructVeEnum
@@ -21,6 +20,23 @@ namespace StructVeEnum
             dd3.Kisakenar=3;
             dd3.Uzunkenar=4;
             Console.WriteLine("struct yapisi ile alan : {0}",dd3.Alanhesapla());
+
+            Console.WriteLine(Gunler.Pazar);
+            Console.WriteLine((int)Gunler.Cumartesi);
+
+            int sicaklik=32;
+            if(sicaklik<=(int)HavaDurumu.normal)
+            {
+                Console.WriteLine("Disariya cikmak icin havanin biraz isinmasini bekleyin!");
+            }
+            else if(sicaklik>=(int)HavaDurumu.cokSıcak)
+            {
+                Console.WriteLine("normal sicakligin uzerinde bir hava vardir!");
+            }
+            else if(sicaklik>=(int)HavaDurumu.soguk && sicaklik<=(int)HavaDurumu.cokSıcak)
+            {
+                Console.WriteLine("Let's go!");
+            }
         }
     }
 
@@ -46,7 +62,24 @@ namespace StructVeEnum
             return this.Uzunkenar*this.Kisakenar;
         }
     }
+
+    enum Gunler
+    {
+        Pazartesi=1,
+        Salı,
+        Çarşamba,
+        Perşembe,
+        Cuma,
+        Cumartesi,
+        Pazar
+
+    }
+
+    enum HavaDurumu
+    {
+        soguk=0,
+        normal=25,
+        cokSoguk=-10,
+        cokSıcak=42
+    }
 }
-
-*/
-
